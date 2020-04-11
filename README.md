@@ -1,5 +1,4 @@
 
-    Stop using isLoading booleans (react)
 # Awesome Web
 A collection of awesome modern web things.
 ## Frontend
