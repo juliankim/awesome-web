@@ -24,6 +24,4 @@ web.
 ### Web Design
 * [behance.net](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps.
 ### Article
-    Stop using isLoading booleans (react)
-
 * [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans) - react practice
