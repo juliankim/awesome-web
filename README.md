@@ -22,5 +22,6 @@ A collection of awesome modern web things.
 * [roadmap.sh](https://roadmap.sh/roadmaps) - Roadmaps for things to learn to become sufficient frontend developer, backend developer, DevOps and so on.
 * [freecodecamp.org](https://www.freecodecamp.org/) - We’re a nonprofit community that helps you learn to code by building projects.
 * [aws.training](https://www.aws.training/) - The only set of training programs and offerings built by the experts at AWS.
+* [serverless-stack.com](https://serverless-stack.com/) - Serverless Stack is a completely free resource to help you build full-stack production ready Serverless applications.
 ### Article
 * [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans) - react practice
