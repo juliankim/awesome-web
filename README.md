@@ -15,8 +15,9 @@ web.
 ## Backend
 ### Framework/Library
 * [django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
+* [flask](https://flask.palletsprojects.com/en/master/) - Flask is a lightweight WSGI web application framework.
 ## Resource
 ### Learning
 * [roadmap.sh](https://roadmap.sh/roadmaps) - Roadmaps for things to learn to become sufficient frontend developer, backend developer, DevOps and so on.
 ### Web Design
-* [behance.net](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps
+* [behance.net](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps.
