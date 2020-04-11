@@ -9,7 +9,7 @@ A collection of awesome modern web things.
     * [react-query](https://github.com/tannerlinsley/react-query) Hooks for fetching, caching and updating asynchronous data in React.
     * [material-ui](https://material-ui.com/) - React components for faster and easier web development.
 * [svelte](https://svelte.dev/) - Svelte is a radical new approach to building user interfaces.
-* [vuejs](https://vuejs.org/) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the 
+* [vuejs](https://vuejs.org/) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 ## Backend
 * [django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
 * [flask](https://flask.palletsprojects.com/en/master/) - Flask is a lightweight WSGI web application framework.
