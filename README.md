@@ -13,6 +13,8 @@ A collection of awesome modern web things.
 ## Backend
 * [django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
 * [flask](https://flask.palletsprojects.com/en/master/) - Flask is a lightweight WSGI web application framework.
+* [.NET](https://dotnet.microsoft.com/) - Free. Cross-platform. Open source.
+A developer platform for building apps.
 ## Resource
 ### Web Design
 * [colorhunt.co](https://colorhunt.co/) - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
