@@ -1,3 +1,5 @@
+
+    Stop using isLoading booleans (react)
 # Awesome Web
 A collection of awesome modern web things. For personal use.
 ## Frontend
@@ -22,4 +24,6 @@ web.
 ### Web Design
 * [behance.net](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps.
 ### Article
-* [Stop using isLoading booleans (react)](https://kentcdodds.com/blog/stop-using-isloading-booleans)
+    Stop using isLoading booleans (react)
+
+* [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans) - react practice
