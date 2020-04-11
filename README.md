@@ -21,3 +21,5 @@ web.
 * [roadmap.sh](https://roadmap.sh/roadmaps) - Roadmaps for things to learn to become sufficient frontend developer, backend developer, DevOps and so on.
 ### Web Design
 * [behance.net](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps.
+### Article
+* [Stop using isLoading booleans (react)](https://kentcdodds.com/blog/stop-using-isloading-booleans)
