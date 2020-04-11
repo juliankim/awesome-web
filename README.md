@@ -19,6 +19,7 @@ A developer platform for building apps.
 ### Web Design
 * [coolors.co](https://coolors.co/) - Create, save and share perfect palettes in seconds.
 * [colorhunt.co](https://colorhunt.co/) - A free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
+* [happyhues.co](https://www.happyhues.co/) - Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
 * [undraw.co](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
 * [humaaans.com](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library.
 * [getwaves.io](https://getwaves.io/) - Make some waves.
