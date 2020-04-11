@@ -6,3 +6,5 @@ A collection of awesome modern web things. For personal use.
 * [Preact](https://preactjs.com/) - Fast 3kB alternative to React with the same modern API.
 * [Material-ui](https://material-ui.com/) - React components for faster and easier web development.
 ## Backend
+* [Django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
+## Articles
