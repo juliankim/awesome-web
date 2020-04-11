@@ -16,9 +16,11 @@ A collection of awesome modern web things. For personal use.
 * [flask](https://flask.palletsprojects.com/en/master/) - Flask is a lightweight WSGI web application framework.
 ## Resource
 ### Web Design
+* [colorhunt.co](https://colorhunt.co/) - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 * [behance.net](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps.
 * [saaslandingpage.com](https://saaslandingpage.com/) - Discover the best 330 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
 ### Learning
 * [roadmap.sh](https://roadmap.sh/roadmaps) - Roadmaps for things to learn to become sufficient frontend developer, backend developer, DevOps and so on.
+* [freecodecamp.org](https://www.freecodecamp.org/) - We’re a nonprofit community that helps you learn to code by building projects.
 ### Article
 * [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans) - react practice
