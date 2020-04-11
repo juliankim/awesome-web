@@ -23,6 +23,7 @@ A developer platform for building apps.
 * [undraw.co](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
 * [humaaans.com](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library.
 * [getwaves.io](https://getwaves.io/) - Make some waves.
+* [landingfolio.com](https://www.landingfolio.com/) - Landingfolio features the best landing page inspiration, templates, resources and examples on the web. Curated by us to ensure the highest quality, updated every day.
 * [behance.net](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps.
 * [saaslandingpage.com](https://saaslandingpage.com/) - Discover the best 330 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
 ### Learning
