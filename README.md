@@ -9,7 +9,7 @@ A collection of awesome modern web things. For personal use.
 #### Framework/Library
 * [svelte](https://svelte.dev/) - Svelte is a radical new approach to building user interfaces.
 ## Backend
-* [Django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
+* [django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
 ## Resource
 ### Learning
 * [Roadmaps](https://roadmap.sh/roadmaps) - Roadmaps for things to learn to become sufficient frontend developer, backend developer, DevOps and so on.
