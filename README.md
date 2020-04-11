@@ -17,6 +17,7 @@ A collection of awesome modern web things.
 A developer platform for building apps.
 ## Resource
 ### Web Design
+* [coolors.co](https://coolors.co/) - Create, save and share perfect palettes in seconds.
 * [colorhunt.co](https://colorhunt.co/) - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 * [behance.net](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps.
 * [saaslandingpage.com](https://saaslandingpage.com/) - Discover the best 330 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
