@@ -21,6 +21,7 @@ A developer platform for building apps.
 * [colorhunt.co](https://colorhunt.co/) - A free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 * [undraw.co](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
 * [humaaans.com](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library.
+* [getwaves.io](https://getwaves.io/) - Make some waves.
 * [behance.net](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps.
 * [saaslandingpage.com](https://saaslandingpage.com/) - Discover the best 330 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
 ### Learning
