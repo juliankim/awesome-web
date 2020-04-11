@@ -13,3 +13,5 @@ A collection of awesome modern web things. For personal use.
 ## Resource
 ### Learning
 * [Roadmaps](https://roadmap.sh/roadmaps) - Roadmaps for things to learn to become sufficient frontend developer, backend developer, DevOps and so on.
+### Web Design
+* [Behance](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps
