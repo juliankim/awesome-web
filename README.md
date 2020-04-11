@@ -1,7 +1,7 @@
 
     Stop using isLoading booleans (react)
 # Awesome Web
-A collection of awesome modern web things. For personal use.
+A collection of awesome modern web things.
 ## Frontend
 * [svelte](https://svelte.dev/) - Svelte is a radical new approach to building user interfaces.
 * [vuejs](https://vuejs.org/) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the 
