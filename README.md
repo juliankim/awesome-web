@@ -11,9 +11,9 @@ A collection of awesome modern web things.
 * [svelte](https://svelte.dev/) - Svelte is a radical new approach to building user interfaces.
 * [vuejs](https://vuejs.org/) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 ## Backend
+* [dotnet](https://dotnet.microsoft.com/) - Free. Cross-platform. Open source.
 * [django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
 * [flask](https://flask.palletsprojects.com/en/master/) - Flask is a lightweight WSGI web application framework.
-* [.NET](https://dotnet.microsoft.com/) - Free. Cross-platform. Open source.
 A developer platform for building apps.
 ## Resource
 ### Web Design
