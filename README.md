@@ -11,6 +11,7 @@ A collection of awesome modern web things.
 * [svelte](https://svelte.dev/) - Svelte is a radical new approach to building user interfaces.
 * [vuejs](https://vuejs.org/) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 ## Backend
+* [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
 * [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast. 
 * [dotnet](https://dotnet.microsoft.com/) - Free. Cross-platform. Open source.
 * [django](https://www.djangoproject.com/) - The web framework for perfectionists wi th deadlines.
