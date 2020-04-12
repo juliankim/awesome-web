@@ -12,7 +12,7 @@ A collection of awesome modern web things.
 * [vuejs](https://vuejs.org/) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 ## Backend
 * [dotnet](https://dotnet.microsoft.com/) - Free. Cross-platform. Open source.
-* [django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
+* [django](https://www.djangoproject.com/) - The web framework for perfectionists wi th deadlines.
 * [flask](https://flask.palletsprojects.com/en/master/) - Flask is a lightweight WSGI web application framework.
 A developer platform for building apps.
 ## Resource
@@ -32,4 +32,5 @@ A developer platform for building apps.
 * [aws.training](https://www.aws.training/) - The only set of training programs and offerings built by the experts at AWS.
 * [serverless-stack.com](https://serverless-stack.com/) - Serverless Stack is a completely free resource to help you build full-stack production ready Serverless applications.
 ### Article
-* [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans) - react practice
+* [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
+* [How we serve 25M API calls from 10 scalable global endpoints for $150 a month](https://www.freecodecamp.org/news/how-we-serve-25m-api-calls-from-10-scalable-global-endpoints-for-150-a-month-911002703280/)
