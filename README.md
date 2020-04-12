@@ -18,7 +18,7 @@ A collection of awesome modern web things.
 * [flask](https://flask.palletsprojects.com/en/master/) - Flask is a lightweight WSGI web application framework.
 A developer platform for building apps.
 ## Resource
-### Information
+### Web Information
 * [stackshare.io](https://stackshare.io) - See reviews of popular open source and SaaS tools.
 ### Web Design
 * [coolors.co](https://coolors.co/) - Create, save and share perfect palettes in seconds.
