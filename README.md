@@ -38,3 +38,4 @@ A developer platform for building apps.
 ### Article
 * [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
 * [How we serve 25M API calls from 10 scalable global endpoints for $150 a month](https://www.freecodecamp.org/news/how-we-serve-25m-api-calls-from-10-scalable-global-endpoints-for-150-a-month-911002703280/)
+* [Build a serverless multi-region, active-active backend solution in an hour](https://read.acloud.guru/building-a-serverless-multi-region-active-active-backend-36f28bed4ecf)
