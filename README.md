@@ -33,9 +33,9 @@ A developer platform for building apps.
 ### Learning
 * [roadmap.sh](https://roadmap.sh/roadmaps) - Roadmaps for things to learn to become sufficient frontend developer, backend developer, DevOps and so on.
 * [freecodecamp.org](https://www.freecodecamp.org/) - We’re a nonprofit community that helps you learn to code by building projects.
+* [aws.training](https://www.aws.training/) - The only set of training programs and offerings built by the experts at AWS.
 * [serverless-stack.com](https://serverless-stack.com/) - Serverless Stack is a completely free resource to help you build full-stack production ready Serverless applications.
 ### AWS
-* [aws.training](https://www.aws.training/) - The only set of training programs and offerings built by the experts at AWS.
 * [Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 * [Building serverless applications with Amazon Aurora Serverless](https://aws.amazon.com/getting-started/hands-on/building-serverless-applications-with-amazon-aurora-serverless/)
 ### Article
