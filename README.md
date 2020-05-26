@@ -38,6 +38,7 @@ A developer platform for building apps.
 ### AWS
 * [Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 * [Building serverless applications with Amazon Aurora Serverless](https://aws.amazon.com/getting-started/hands-on/building-serverless-applications-with-amazon-aurora-serverless/)
+* [AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html)
 ### Article
 * [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
 * [How we serve 25M API calls from 10 scalable global endpoints for $150 a month](https://www.freecodecamp.org/news/how-we-serve-25m-api-calls-from-10-scalable-global-endpoints-for-150-a-month-911002703280/)
