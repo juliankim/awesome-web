@@ -20,6 +20,7 @@ A developer platform for building apps.
 ## Resource
 ### Web Information
 * [stackshare.io](https://stackshare.io) - See reviews of popular open source and SaaS tools.
+* [namelix.com](https://namelix.com) - generate a short, brandable business name using artificial intelligence
 ### Web Design
 * [coolors.co](https://coolors.co/) - Create, save and share perfect palettes in seconds.
 * [colorhunt.co](https://colorhunt.co/) - A free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
